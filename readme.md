@@ -1,4 +1,4 @@
 ## skor typing test
 
-![skor tinggi](https://raw.githubusercontent.com/irgiansaputra/MetodeNumerik/main/Screenshot%20(2).png)
+![kenangan skor tinggi](https://raw.githubusercontent.com/irgiansaputra/MetodeNumerik/main/Screenshot%20(2).png)
 tikaa
